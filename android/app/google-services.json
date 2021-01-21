@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014452166467",
+    "project_id": "wallessworld-ba271",
+    "storage_bucket": "wallessworld-ba271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014452166467:android:d43fe4712413e4c541d9f6",
+        "android_client_info": {
+          "package_name": "com.walless_world.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014452166467-4i6398cuut4gccanj8ifofh9lt221jd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqmSmBgxRi0odc1Wm2lq1Gx0HVkvirg9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014452166467-4i6398cuut4gccanj8ifofh9lt221jd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
