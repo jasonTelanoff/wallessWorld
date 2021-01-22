@@ -41,4 +41,4 @@ jobs:
           appId: ${{secrets.FIREBASE_ANDROID_APPID}}
           token: ${{secrets.FIREBASE_TOKEN}}
           groups: testers
-          file: app/build/outputs/apk/release/app-release-unsigned.apk
+          file: wallessWorld/build/app/outputs/apk/release/app-release.apk
