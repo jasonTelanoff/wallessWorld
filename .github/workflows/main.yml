@@ -46,3 +46,4 @@ jobs:
         token: ${{secrets.FIREBASE_TOKEN}}
         group: testers
         file: Runner.ipa
+        jkl
