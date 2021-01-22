@@ -28,7 +28,7 @@ jobs:
   beta_ios:
     name: Upload iOS Beta to Firebase App Distribution
     needs: [build_ios]
-    runs-on: ubuntu-latest
+    runs-on: macOS-latest
     steps:
     - uses: actions/checkout@v1
     - name: set up JDK 1.8
@@ -46,4 +46,3 @@ jobs:
         token: ${{secrets.FIREBASE_TOKEN}}
         group: testers
         file: Runner.ipa
-        jkl
