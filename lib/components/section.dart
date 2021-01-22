@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:walless_world/components/themed_text.dart';
-import 'package:walless_world/globals/app_theme.dart';
 
 class Section extends StatelessWidget {
   final String text;

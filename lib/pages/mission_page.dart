@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:walless_world/components/header.dart';
-import 'package:walless_world/components/section.dart';
 import 'package:walless_world/components/themed_text.dart';
-import 'package:walless_world/globals/app_theme.dart';
 
 class MissionPage extends StatelessWidget {
   @override

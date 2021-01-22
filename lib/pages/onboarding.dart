@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:walless_world/components/button.dart';
-import 'package:walless_world/components/header.dart';
 import 'package:walless_world/components/themed_scaffold.dart';
 
 import 'home_page.dart';
